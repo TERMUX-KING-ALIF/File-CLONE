@@ -23,7 +23,7 @@ time.sleep(5)
 os.system('clear')
 print("\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mJOIN MY SCRIPT GIFT GROUP")
 time.sleep(2)
-os.system(f'xdg-open https://facebook.com/groups/554714119911648/')
+os.system(f'xdg-open https://www.facebook.com/profile.php?id=100061374463417/')
 #------------------[ ALIF-King ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
 ua = ["Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36",]
